@@ -6,7 +6,7 @@
 
 # Business Problems And Solutions
 
-###Retrieve the total number of orders placed.
+### Retrieve the total number of orders placed.
 
 SELECT 
     COUNT(order_id) AS total_orders
