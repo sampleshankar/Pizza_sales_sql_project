@@ -8,10 +8,11 @@
 
 ### Retrieve the total number of orders placed.
 
-SELECT 
+```SELECT 
     COUNT(order_id) AS total_orders
 FROM
     orders;
+```
     
 -- Calculate the total revenue generated from pizza sales.
 
