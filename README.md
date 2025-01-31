@@ -54,7 +54,7 @@ ORDER BY quantity DESC
 LIMIT 5;
 ```
 
-###Join the necessary tables to find the total quantity of each pizza category ordered.
+### Join the necessary tables to find the total quantity of each pizza category ordered.
 
 ```SELECT 
     SUM(order_details.quantity) AS quantity,
