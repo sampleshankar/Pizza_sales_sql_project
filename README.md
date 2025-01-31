@@ -1,1 +1,1 @@
-# Pizza_sales_sql_project
+# Pizza Sales Data Analysis Using SQl
